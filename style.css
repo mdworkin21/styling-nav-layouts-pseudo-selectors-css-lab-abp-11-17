@@ -42,7 +42,11 @@ nav a:hover{
 
 h3 a#iced{
   text-decoration: none;
-  color: #CCC
+  color: #CCC;
+}
+
+h3 a#iced:hover{
+  text-decoration: underline;
 }
 
 #header a{
