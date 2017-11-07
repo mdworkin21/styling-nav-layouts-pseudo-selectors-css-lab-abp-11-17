@@ -15,6 +15,10 @@ header nav {
   float: right;
 }
 
+#header a:hover{
+  text-decoration: underline;
+}
+
 nav ul {
   margin: 40px 0 0 0;
   padding: 0;
