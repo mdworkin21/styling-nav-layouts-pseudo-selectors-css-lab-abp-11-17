@@ -92,7 +92,8 @@ div.questions a.btn{
 
 div.questions a.btn:hover{
   background-color: #0069d9;
-  text-decoration: none;;
+  border-color: #0069d9;
+  text-decoration: none;
 }
 
 footer{
