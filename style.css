@@ -41,7 +41,6 @@ nav a:hover{
 }
 
 h3 a#iced{
-  float: down;
   display: inline;
   margin: 30px 0 0 0;
   font-size: 30px;
@@ -60,7 +59,7 @@ h3 a#iced:hover{
 }
 
 main{
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 div.jumbotron {
