@@ -41,6 +41,7 @@ nav a:hover{
 }
 
 h3 a#iced{
+  float: down;
   display: inline;
   margin: 30px 0 0 0;
   font-size: 30px;
