@@ -91,7 +91,8 @@ div.questions a.btn{
 }
 
 div.questions a.btn:hover{
-  text-decoration: underline;
+  background-color: #0069d9; 
+  text-decoration: none;;
 }
 
 footer{
