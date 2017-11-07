@@ -40,6 +40,10 @@ nav a:hover{
   text-decoration: underline;
 }
 
+nav h3#iced{
+  text-decoration: none;
+}
+
 #header a{
   text-decoration: none;
   color: #868e96;
